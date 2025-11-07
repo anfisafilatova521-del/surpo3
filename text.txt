@@ -1,2 +1,1 @@
-This is the feature1
-This is the feature second
+This is the feature3
